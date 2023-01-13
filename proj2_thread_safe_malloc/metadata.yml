@@ -1,0 +1,12 @@
+---
+:id: 108827065
+:submitters:
+- :name: Xushan Qing
+  :email: xushan.qing@duke.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-02-02 21:10:53.670460000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-02-02 13:10:53.670460000 Z
+:status: processed
+:score: 100.0
